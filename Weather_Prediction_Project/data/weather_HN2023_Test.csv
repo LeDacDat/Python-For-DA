@@ -1,0 +1,39 @@
+-BEGIN HEADER-,,,,,,,,,,
+NASA/POWER CERES/MERRA2 Native Resolution Daily Data ,,,,,,,,,,
+Dates (month/day/year): 12/01/2023 through 12/22/2023 ,,,,,,,,,,
+Location: Latitude  22.0   Longitude 105.0 ,,,,,,,,,,
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 182.49 meters,,,,,,,,,,
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 ,,,,,,,,,,
+Parameter(s): ,,,,,,,,,,
+T2M_MAX         MERRA-2 Temperature at 2 Meters Maximum (C) ,,,,,,,,,,
+T2M_MIN         MERRA-2 Temperature at 2 Meters Minimum (C) ,,,,,,,,,,
+TS              MERRA-2 Earth Skin Temperature (C) ,,,,,,,,,,
+QV2M            MERRA-2 Specific Humidity at 2 Meters (g/kg) ,,,,,,,,,,
+RH2M            MERRA-2 Relative Humidity at 2 Meters (%) ,,,,,,,,,,
+PRECTOTCORR     MERRA-2 Precipitation Corrected (mm/day) ,,,,,,,,,,
+WS10M           MERRA-2 Wind Speed at 10 Meters (m/s) ,,,,,,,,,,
+WS50M_RANGE     MERRA-2 Wind Speed at 50 Meters Range (m/s) ,,,,,,,,,,
+-END HEADER-,,,,,,,,,,
+YEAR,MO,DY,TS,T2M_MAX,T2M_MIN,RH2M,QV2M,PRECTOTCORR,WS10M,WS50M
+2023,12,1,18.91,22,15.6,83.06,10.8,2.8,1.91,1.78
+2023,12,2,18.2,22.01,14.52,83.81,10.38,0.23,1.84,1.7
+2023,12,3,18.16,21.08,14.75,88.56,11.11,1.2,1.88,1.66
+2023,12,4,18.43,22.11,15.23,89.44,11.47,19.23,1.69,1.77
+2023,12,5,18.69,21.78,15.09,89.25,11.66,1.69,1.78,2.4
+2023,12,6,,,,,,,,
+2023,12,7,,,,,,,,
+2023,12,8,,,,,,,,
+2023,12,9,,,,,,,,
+2023,12,10,23.61,28.5,19.3,90.31,16.6,1.61,2.48,2.66
+2023,12,11,24.08,28.83,20.94,89.44,16.78,2.34,1.96,3.34
+2023,12,12,22.8,27.08,20.22,90.25,15.62,10.79,2.91,3.32
+2023,12,13,22.35,26.78,18.42,90.44,15.08,2.17,2.89,2
+2023,12,14,23.19,28.26,19.05,88.31,15.5,0.74,2.79,2.24
+2023,12,15,23.98,29.4,19.88,87.12,15.99,1.54,1.66,4.84
+2023,12,16,17.03,21.65,10.46,73.44,8.54,5.95,3.27,7.27
+2023,12,17,12.82,17.22,7.52,72.94,6.16,0,2.52,1.38
+2023,12,18,13.91,19.58,7.48,81.19,7.57,0.02,2.06,2.32
+2023,12,19,14.19,18.46,10.67,83.25,7.87,0.25,2.12,3.02
+2023,12,20,,,,,,,,
+2023,12,21,,,,,,,,
+2023,12,22,,,,,,,,
